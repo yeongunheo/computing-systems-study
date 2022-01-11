@@ -1,4 +1,4 @@
-# web-application-server
+# computing-systems-study
 
 - 학습 목표: 컴퓨터를 직접 만들어가면서 컴퓨터의 작동 원리를 이해해본다.
 
