@@ -24,3 +24,7 @@
 ## 1장 - 불 논리
 - NAND 게이트만으로 다른 기본 논리 게이트들을 구현하기 (NOT, AND, OR/XOR, MUX, DMUX)
 - 다입력/멀티비트로 확장하기
+
+## 2장 - 불 연산
+- 가산기 구현하기 (HalfAdder, FullAdder, Add16, Inc16)
+- 산술 논리 연산 장치 구현하기 (ALU)
